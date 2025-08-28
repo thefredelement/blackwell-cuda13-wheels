@@ -14,7 +14,7 @@ High-performance Python wheels optimized for NVIDIA RTX 5070 Ti (Blackwell/sm_12
 
 ### Prerequisites
 ```bash
-# NVIDIA Driver 550+ and CUDA 13.0
+# NVIDIA Driver 580+ and CUDA 13.0
 nvidia-smi  # Should show CUDA 13.0
 
 (You probably need the (at time of writing beta) 580 driver)
